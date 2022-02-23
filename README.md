@@ -1,1 +1,1 @@
-# CamDigiKey-Sample-Code-Android
+To integrate app-to-app authentication with CamDigiKey app, a client must have an API server which its endpoints communicate with CamDigiKey server using CamDigiKey client library. Then, client mobile application requests to client API server to get loginToken. Through CamDigiKey mobile SDK, client mobile application then can call function to request authorization from CamDigiKey app. The following are the iOS integration steps:
